@@ -8,6 +8,8 @@ public class Main {
 
         byte myByteValue = -127;
 
+        short mySortValue = 32767;
+
         
     }
 }
