@@ -8,10 +8,12 @@ public class Main {
         int myMinValue = -2147483648;
         int myMaxValue = 2147483647;
         int myTotal = (myMaxValue / 2);
+        System.out.println("myTotal is "+ myTotal);
         //byte has  a width of 8
         byte myByteValue = -127;
         byte myNewByteValue = (byte)(myByteValue/2);
-        // byte has a width of 15
+        System.out.println("myNewByteValue is " + myNewByteValue);
+                // byte has a width of 15
         short mySortValue = 32767;
         //long haw a width of 64
         long myLongValue = 13323456545600L;
